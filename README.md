@@ -1,4 +1,4 @@
-# Getting Started with Spring Boot
+# Your First Steps with Spring Boot 
 
 [Spring Boot](http://spring.io/projects/spring-boot) is an opinionated way to quickly build software intended for production. It pulls together and integrates lots of great technologies including Spring and Java EE.
 
